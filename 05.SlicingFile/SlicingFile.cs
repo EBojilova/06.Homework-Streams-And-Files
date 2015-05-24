@@ -21,7 +21,7 @@ class SlicingFile
     {
         using (var source = new FileStream(string.Format("../../Part-{0}.txt", i), FileMode.Open))
         {
-            using (var destination = new FileStream(assemblePath, i == 0 ? FileMode.Create : FileMode.Append))
+            using (var destination = new FileStream(assemblePath, FileMode.Append))
             {
                 var buffer = new byte[source.Length];
                 source.Read(buffer, 0, buffer.Length);

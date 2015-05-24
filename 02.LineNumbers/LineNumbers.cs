@@ -18,8 +18,8 @@ class LineNumbers
                 while ((line = reader.ReadLine()) != null)
                 {
                     lineNumber++;
-                    Console.WriteLine("Line {0}: {1}", lineNumber, line);
-                    writer.WriteLine(line);
+                    string writeLine=string.Format("Line {0}: {1}", lineNumber, line);
+                    writer.WriteLine(writeLine);
                 }
             }
         }

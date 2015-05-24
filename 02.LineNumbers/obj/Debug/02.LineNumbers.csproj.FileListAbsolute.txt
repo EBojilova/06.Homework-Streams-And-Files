@@ -3,3 +3,4 @@ c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\
 c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.pdb
 c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\02.LineNumbers\obj\Debug\02.LineNumbers.exe
 c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\02.LineNumbers\obj\Debug\02.LineNumbers.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.HomeworkStreamsAndFiles\02.LineNumbers\obj\Debug\02.LineNumbers.csprojResolveAssemblyReference.cache
