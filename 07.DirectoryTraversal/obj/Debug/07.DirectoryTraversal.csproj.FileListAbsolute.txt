@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.HomeworkStreamsAndFiles\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.HomeworkStreamsAndFiles\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.HomeworkStreamsAndFiles\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.HomeworkStreamsAndFiles\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.HomeworkStreamsAndFiles\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.HomeworkStreamsAndFiles\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.pdb

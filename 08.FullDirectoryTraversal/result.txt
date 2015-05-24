@@ -1,0 +1,8 @@
+.config
+--08.FullDirectoryTraversal.exe.config - 0.183kb
+--08.FullDirectoryTraversal.vshost.exe.config - 0.183kb
+.exe
+--08.FullDirectoryTraversal.exe - 7.500kb
+--08.FullDirectoryTraversal.vshost.exe - 22.625kb
+.pdb
+--08.FullDirectoryTraversal.pdb - 15.500kb

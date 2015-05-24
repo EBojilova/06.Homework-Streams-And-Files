@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\03.WordCount\bin\Debug\03.WordCount.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\03.WordCount\bin\Debug\03.WordCount.exe
+c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\03.WordCount\bin\Debug\03.WordCount.pdb
+c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\03.WordCount\obj\Debug\03.WordCount.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\03.WordCount\obj\Debug\03.WordCount.exe
+c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\03.WordCount\obj\Debug\03.WordCount.pdb

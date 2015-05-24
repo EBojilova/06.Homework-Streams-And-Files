@@ -1,0 +1,13 @@
+using System;
+using System.IO;
+
+class SlicingFile
+{
+    const string filePath = "../../file.txt";
+    const string assemblePath = "../../assembled.txt";
+
+    private static void Main()
+    {
+        Console.Write("n:");
+        int parts = int.Parse(Console.ReadLine());
+        using (var sour

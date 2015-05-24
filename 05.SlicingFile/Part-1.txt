@@ -1,0 +1,7 @@
+ce = new FileStream(filePath, FileMode.Open))
+        {
+            long sliceSize = source.Length / parts;
+            long leftOver = source.Length - sliceSize * parts;
+            for (int i = 0; i < parts; i++)
+            {
+                using (var destination = new FileStream(string.Format("

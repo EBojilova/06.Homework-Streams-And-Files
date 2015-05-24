@@ -1,0 +1,5 @@
+c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\01.OddLines\bin\Debug\01.OddLines.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\01.OddLines\bin\Debug\01.OddLines.exe
+c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\01.OddLines\bin\Debug\01.OddLines.pdb
+c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\01.OddLines\obj\Debug\01.OddLines.exe
+c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\01.OddLines\obj\Debug\01.OddLines.pdb

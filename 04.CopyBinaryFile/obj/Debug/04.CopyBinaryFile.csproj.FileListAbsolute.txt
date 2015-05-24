@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe
+c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.pdb
+c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.exe
+c:\users\elena\documents\visual studio 2013\Projects\06.HomeworkStreamsAndFiles\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.pdb

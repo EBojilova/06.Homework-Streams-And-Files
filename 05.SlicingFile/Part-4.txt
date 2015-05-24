@@ -1,0 +1,10 @@
+ath, i == 0 ? FileMode.Create : FileMode.Append))
+                {
+                    var buffer = new byte[source.Length];
+                    source.Read(buffer, 0, buffer.Length);
+                    destination.Write(buffer, 0, buffer.Length);
+                }
+            }
+        }
+    }
+}
