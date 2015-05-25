@@ -1,6 +1,6 @@
-../../Part-{0}.txt", i), FileMode.Create))
+ < parts; i++)
+            {
+                using (var destination = new FileStream(string.Format("../../Part-{0}.txt", i), FileMode.Create))
                 {
                     sliceSize = (i < parts - 1) ? sliceSize : sliceSize + leftOver;
-                    var buffer = new byte[sliceSize];
-                    source.Read(buffer, 0, buffer.Length);
-                    destination.Write(buffe
+     

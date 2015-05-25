@@ -3,3 +3,4 @@ C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.HomeworkStreamsAndFiles\
 C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.HomeworkStreamsAndFiles\06.ZippingSlicedFiles\bin\Debug\06.ZippingSlicedFiles.pdb
 C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.HomeworkStreamsAndFiles\06.ZippingSlicedFiles\obj\Debug\06.ZippingSlicedFiles.exe
 C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.HomeworkStreamsAndFiles\06.ZippingSlicedFiles\obj\Debug\06.ZippingSlicedFiles.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\06.HomeworkStreamsAndFiles\06.ZippingSlicedFiles\obj\Debug\06.ZippingSlicedFiles.csprojResolveAssemblyReference.cache

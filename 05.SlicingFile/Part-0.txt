@@ -9,5 +9,4 @@ class SlicingFile
     private static void Main()
     {
         Console.Write("n:");
-        int parts = int.Parse(Console.ReadLine());
-        using (var sour
+        int parts = int.

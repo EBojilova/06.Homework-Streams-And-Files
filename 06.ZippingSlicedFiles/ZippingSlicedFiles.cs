@@ -24,7 +24,7 @@ class ZippingSlicingFile
         {
             using (var zip = new GZipStream(source, CompressionMode.Decompress))//DEKOMPRESIRA
             {
-                using (var destination = new FileStream(assemblePath,  FileMode.Append))
+                using (var destination = new FileStream(assemblePath, i == 0 ? FileMode.Create : FileMode.Append))
                 {
                     byte[] buffer = new byte[4096];
                     while (true)
